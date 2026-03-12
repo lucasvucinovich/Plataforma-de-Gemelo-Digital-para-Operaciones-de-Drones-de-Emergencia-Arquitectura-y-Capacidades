@@ -1,1 +1,1 @@
-# Plataforma-de-Gemelo-Digital-para-Operaciones-de-Drones-de-Emergencia-Arquitectura-y-Capacidades
+# Plataforma-de-Gemelo-Digital-para-Operaciones-de-Drones-de-Emergencia
