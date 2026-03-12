@@ -1,4 +1,4 @@
-# Plataforma-de-Gemelo-Digital-para-Operaciones-de-Drones-de-Emergencia-Arquitectura-y-Capacidad
+# <ins>Plataforma de Gemelo Digital para Operaciones de Drones de Emergencia Arquitectura y Capacidad</ins>
 
 # Klout – Digital Twin Platform for Emergency Drone Operations
 
